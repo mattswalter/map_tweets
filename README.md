@@ -13,4 +13,4 @@ Search: Manaus
 
 Description: Health workers in Brazil’s largest state are begging for help and oxygen supplies after an explosion of Covid deaths and infections that one official compared to a tsunami and said could be linked to a new variant.
 
-Link: 
+Link: https://nbviewer.jupyter.org/github/smwalter96/map_tweets/blob/main/interactive_maps/manaus_1_14.ipynb
