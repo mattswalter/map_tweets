@@ -7,6 +7,8 @@ Uses tweepy to search for tweets and access user location. Geopy is used for geo
 
 Interactive Maps of Trending hashtags with original tweet text:
 
+_______________________________________________________________________________________________________________________________________________________________
+
 Date: 1/14/2021
 
 Search: Manaus
